@@ -1,7 +1,7 @@
 # readme-tests
 
 ## Banner
-
+![Banner para loja de eletrônicos computador desconto preto e vermelho](https://user-images.githubusercontent.com/42656077/175972515-7a06f61b-86d9-4656-8748-bff7abf624c7.gif)
 
 ## PNG:
 ![](https://user-images.githubusercontent.com/42656077/175965979-9be40eef-b825-4bb6-a8e9-0307ab312348.png)
